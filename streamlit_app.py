@@ -3,6 +3,7 @@ import streamlit as st
 from dotenv import load_dotenv
 import google.generativeai as gpt
 from functions import*
+from vector_search import get_top_k_documents
 
 # load environment variables
 load_dotenv()
@@ -16,6 +17,10 @@ st.set_page_config(
 
 API_KEY = os.getenv("GOOGLE_API_KEY")
 
+if not API_KEY:
+    st.error("Error: GOOGLE_API_KEY environment variable not set.")
+    st.stop()
+
 # Set up Google Gemini-Pro AI model
 gpt.configure(api_key=API_KEY)
 model = gpt.GenerativeModel('gemini-2.0-flash')
@@ -25,7 +30,7 @@ if "chat_session" not in st.session_state:
     st.session_state.chat_session = model.start_chat(history=[])
 
 # Display the chatbot's title on the page
-st.title("🤖 Learn with Study Engine")
+st.title("🤖 Learn with Study Engine (RAG Enabled)")
 
 # Display the chat history
 for msg in st.session_state.chat_session.history:
@@ -37,6 +42,8 @@ user_input = st.chat_input("Ask Study Engine...")
 if user_input:
     # Add user's message to chat and display it
     st.chat_message("user").markdown(user_input)
+    with st.spinner("Searching knowledge base..."):
+        retrieved_context = get_top_k_documents(user_input, k=5)
 
     # Send user's message to Gemini and get the response
     gemini_response = fetch_gemini_response(user_input)
