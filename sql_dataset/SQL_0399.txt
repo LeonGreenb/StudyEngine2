@@ -1,0 +1,23 @@
+Topic: CTE
+Difficulty: Easy
+
+Explanation:
+A Common Table Expression simplifies complex queries by naming subqueries.
+
+Question:
+Write an SQL query related to cte using the 'transactions' table.
+
+Step-by-Step Solution:
+1. Identify the relevant table and columns.
+2. Apply the concept of cte appropriately.
+3. Ensure the query follows ANSI SQL syntax.
+4. Validate results with realistic data.
+
+Answer:
+-- Example ANSI SQL query
+SELECT * FROM transactions;
+
+Example:
+This would return all rows from the 'transactions' table.
+
+Tags: CTE, SQL, TRANSACTIONS

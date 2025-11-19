@@ -1,0 +1,23 @@
+Topic: ALTER TABLE
+Difficulty: Easy
+
+Explanation:
+ALTER TABLE modifies an existing table structure.
+
+Question:
+Write an SQL query related to alter table using the 'accounts' table.
+
+Step-by-Step Solution:
+1. Identify the relevant table and columns.
+2. Apply the concept of alter table appropriately.
+3. Ensure the query follows ANSI SQL syntax.
+4. Validate results with realistic data.
+
+Answer:
+-- Example ANSI SQL query
+SELECT * FROM accounts;
+
+Example:
+This would return all rows from the 'accounts' table.
+
+Tags: ALTER TABLE, SQL, ACCOUNTS

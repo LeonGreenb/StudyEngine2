@@ -1,0 +1,20 @@
+        Topic: Rate Limiting: Performance Considerations
+        Question: Explain the concept of Rate Limiting (Performance Considerations) and how it is used in Python.
+
+        Explanation:
+        Rate Limiting is an important Python topic. This explanation covers the implementation details, trade-offs, and typical use-cases, along with code patterns commonly used in production. It is often encountered in tasks involving rate limiting.
+
+        Step-by-Step Solution:
+        1. Refactor repetitive code into functions or classes.
+2. Document assumptions and usage examples.
+3. Consider complexity and potential optimizations.
+4. Explain the expected output and why it occurs.
+5. Refactor repetitive code into functions or classes.
+6. Handle common edge cases and input validation.
+
+        Example:
+        # Example snippet illustrating Rate Limiting
+print('Example 1197')
+
+        Tags: python, rate_limiting, intermediate
+        Generated: 2025-10-12T13:10:14.907028Z

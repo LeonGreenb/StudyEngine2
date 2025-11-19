@@ -1,0 +1,23 @@
+Topic: HAVING
+Difficulty: Medium
+
+Explanation:
+HAVING filters groups formed by GROUP BY.
+
+Question:
+Write an SQL query related to having using the 'appointments' table.
+
+Step-by-Step Solution:
+1. Identify the relevant table and columns.
+2. Apply the concept of having appropriately.
+3. Ensure the query follows ANSI SQL syntax.
+4. Validate results with realistic data.
+
+Answer:
+-- Example ANSI SQL query
+SELECT * FROM appointments;
+
+Example:
+This would return all rows from the 'appointments' table.
+
+Tags: HAVING, SQL, APPOINTMENTS

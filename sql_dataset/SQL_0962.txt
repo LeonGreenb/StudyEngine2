@@ -1,0 +1,23 @@
+Topic: DROP TABLE
+Difficulty: Medium
+
+Explanation:
+DROP TABLE removes an existing table and its data.
+
+Question:
+Write an SQL query related to drop table using the 'courses' table.
+
+Step-by-Step Solution:
+1. Identify the relevant table and columns.
+2. Apply the concept of drop table appropriately.
+3. Ensure the query follows ANSI SQL syntax.
+4. Validate results with realistic data.
+
+Answer:
+-- Example ANSI SQL query
+SELECT * FROM courses;
+
+Example:
+This would return all rows from the 'courses' table.
+
+Tags: DROP TABLE, SQL, COURSES

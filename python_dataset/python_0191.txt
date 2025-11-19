@@ -1,0 +1,19 @@
+        Topic: If Statements: Optimization Tips
+        Question: What are the key principles behind If Statements (Optimization Tips)? Give examples and common pitfalls.
+
+        Explanation:
+        If Statements is an important Python topic. This section explains the concept in simple terms, with clear analogies and basic syntax examples to get started quickly. It is often encountered in tasks involving if statements.
+
+        Step-by-Step Solution:
+        1. Refactor repetitive code into functions or classes.
+2. Add tests to verify correctness.
+3. Add tests to verify correctness.
+4. Start by reviewing the basic syntax and definitions.
+5. Explain the expected output and why it occurs.
+
+        Example:
+        # Example snippet illustrating If Statements
+print('Example 191')
+
+        Tags: python, if_statements, beginner
+        Generated: 2025-10-12T13:10:14.337787Z

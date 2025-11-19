@@ -1,0 +1,23 @@
+Topic: CREATE TABLE
+Difficulty: Easy
+
+Explanation:
+CREATE TABLE defines a new table and its columns.
+
+Question:
+Write an SQL query related to create table using the 'accounts' table.
+
+Step-by-Step Solution:
+1. Identify the relevant table and columns.
+2. Apply the concept of create table appropriately.
+3. Ensure the query follows ANSI SQL syntax.
+4. Validate results with realistic data.
+
+Answer:
+-- Example ANSI SQL query
+SELECT * FROM accounts;
+
+Example:
+This would return all rows from the 'accounts' table.
+
+Tags: CREATE TABLE, SQL, ACCOUNTS

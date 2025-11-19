@@ -1,0 +1,19 @@
+        Topic: Magic Methods (__init__, __str__): Cheat Sheet
+        Question: What are the key principles behind Magic Methods (__init__, __str__) (Cheat Sheet)? Give examples and common pitfalls.
+
+        Explanation:
+        Magic Methods (__init__, __str__) is an important Python topic. This section explains the concept in simple terms, with clear analogies and basic syntax examples to get started quickly. It is often encountered in tasks involving magic methods (__init__, __str__).
+
+        Step-by-Step Solution:
+        1. Document assumptions and usage examples.
+2. Add tests to verify correctness.
+3. Handle common edge cases and input validation.
+4. Refactor repetitive code into functions or classes.
+5. Explain the expected output and why it occurs.
+
+        Example:
+        # Example snippet illustrating Magic Methods (__init__, __str__)
+print('Example 338')
+
+        Tags: python, magic_methods_(__init__,___str__), beginner
+        Generated: 2025-10-12T13:10:14.410072Z

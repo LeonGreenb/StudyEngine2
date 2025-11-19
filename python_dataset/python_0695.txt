@@ -1,0 +1,18 @@
+        Topic: Rate Limiting: Cheat Sheet
+        Question: What are the key principles behind Rate Limiting (Cheat Sheet)? Give examples and common pitfalls.
+
+        Explanation:
+        Rate Limiting is an important Python topic. This section explains the concept in simple terms, with clear analogies and basic syntax examples to get started quickly. It is often encountered in tasks involving rate limiting.
+
+        Step-by-Step Solution:
+        1. Refactor repetitive code into functions or classes.
+2. Handle common edge cases and input validation.
+3. Document assumptions and usage examples.
+4. Handle common edge cases and input validation.
+
+        Example:
+        # Example snippet illustrating Rate Limiting
+print('Example 695')
+
+        Tags: python, rate_limiting, beginner
+        Generated: 2025-10-12T13:10:14.649930Z

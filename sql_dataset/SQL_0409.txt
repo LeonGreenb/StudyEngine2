@@ -1,0 +1,23 @@
+Topic: JOIN
+Difficulty: Easy
+
+Explanation:
+JOIN combines rows from two or more tables based on related columns.
+
+Question:
+Write an SQL query related to join using the 'employees' table.
+
+Step-by-Step Solution:
+1. Identify the relevant table and columns.
+2. Apply the concept of join appropriately.
+3. Ensure the query follows ANSI SQL syntax.
+4. Validate results with realistic data.
+
+Answer:
+-- Example ANSI SQL query
+SELECT * FROM employees;
+
+Example:
+This would return all rows from the 'employees' table.
+
+Tags: JOIN, SQL, EMPLOYEES

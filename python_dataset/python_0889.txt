@@ -1,0 +1,20 @@
+        Topic: Django Models and Migrations
+        Question: Describe Django Models and Migrations and provide a practical code example.
+
+        Explanation:
+        Django Models and Migrations is an important Python topic. This explanation covers the implementation details, trade-offs, and typical use-cases, along with code patterns commonly used in production. It is often encountered in tasks involving django models and migrations.
+
+        Step-by-Step Solution:
+        1. Write a minimal example to demonstrate the concept.
+2. Explain the expected output and why it occurs.
+3. Refactor repetitive code into functions or classes.
+4. Refactor repetitive code into functions or classes.
+5. Consider complexity and potential optimizations.
+6. Write a minimal example to demonstrate the concept.
+
+        Example:
+        # Example snippet illustrating Django Models and Migrations
+print('Example 889')
+
+        Tags: python, django_models_and_migrations, intermediate
+        Generated: 2025-10-12T13:10:14.735043Z

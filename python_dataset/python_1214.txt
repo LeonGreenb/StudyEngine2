@@ -1,0 +1,20 @@
+        Topic: Encapsulation: Practical Example (variant 1214)
+        Question: How does Encapsulation (Practical Example) work in Python? Provide a detailed explanation.
+
+        Explanation:
+        Encapsulation is an important Python topic. This explanation covers the implementation details, trade-offs, and typical use-cases, along with code patterns commonly used in production. It is often encountered in tasks involving encapsulation.
+
+        Step-by-Step Solution:
+        1. Write a minimal example to demonstrate the concept.
+2. Write a minimal example to demonstrate the concept.
+3. Profile the code to find bottlenecks.
+4. Start by reviewing the basic syntax and definitions.
+5. Explain the expected output and why it occurs.
+6. Add tests to verify correctness.
+
+        Example:
+        # Example snippet illustrating Encapsulation
+print('Example 1214')
+
+        Tags: python, encapsulation, intermediate
+        Generated: 2025-10-12T13:10:14.914318Z

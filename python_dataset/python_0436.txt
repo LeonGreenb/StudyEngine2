@@ -1,0 +1,18 @@
+        Topic: Async Generators: Interview Question (variant 436)
+        Question: Explain the concept of Async Generators (Interview Question) and how it is used in Python.
+
+        Explanation:
+        Async Generators is an important Python topic. This section explains the concept in simple terms, with clear analogies and basic syntax examples to get started quickly. It is often encountered in tasks involving async generators.
+
+        Step-by-Step Solution:
+        1. Add tests to verify correctness.
+2. Refactor repetitive code into functions or classes.
+3. Explain the expected output and why it occurs.
+4. Profile the code to find bottlenecks.
+
+        Example:
+        # Example snippet illustrating Async Generators
+print('Example 436')
+
+        Tags: python, async_generators, beginner
+        Generated: 2025-10-12T13:10:14.445518Z

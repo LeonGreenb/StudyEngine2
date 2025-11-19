@@ -1,0 +1,21 @@
+Topic: Build Tools (tsc, babel): Implementation (Part 975)
+Question: Explain the concept of Build Tools (tsc, babel) and how it is used in TypeScript.
+
+Explanation:
+Build Tools (tsc, babel) is an important TypeScript topic. This entry explains the concept in clear terms, shows practical use cases, and teaches how to apply it in typical TypeScript code.
+
+Step-by-Step Solution:
+1. Introduce the core idea of Build Tools (tsc, babel) and when it's used.
+2. Show basic syntax with a minimal example.
+3. Discuss limitations, edge cases, performance and advanced patterns.
+4. Show integration with build tools or compiler APIs where applicable.
+5. Demonstrate a slightly larger example or pattern.
+6. Summarize best practices and further reading.
+
+Example:
+// Example: Build Tools (tsc, babel)
+function greet(name: string): string { return `Hello, ${name}`; }
+console.log(greet('World 975'));
+
+Tags: typescript, build_tools_(tsc,_babel), advanced
+Generated: 2025-10-12T14:41:22.430975Z

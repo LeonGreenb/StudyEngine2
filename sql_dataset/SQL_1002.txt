@@ -1,0 +1,23 @@
+Topic: Transactions
+Difficulty: Easy
+
+Explanation:
+Transactions ensure data integrity with COMMIT and ROLLBACK.
+
+Question:
+Write an SQL query related to transactions using the 'patients' table.
+
+Step-by-Step Solution:
+1. Identify the relevant table and columns.
+2. Apply the concept of transactions appropriately.
+3. Ensure the query follows ANSI SQL syntax.
+4. Validate results with realistic data.
+
+Answer:
+-- Example ANSI SQL query
+SELECT * FROM patients;
+
+Example:
+This would return all rows from the 'patients' table.
+
+Tags: TRANSACTIONS, SQL, PATIENTS
