@@ -2,8 +2,8 @@ import streamlit as st
 import os
 import google.generativeai as genai
 from sentence_transformers import SentenceTransformer
-import vector_engine  # Your retrieval logic
-import functions      # Your generation logic
+import vector_engine  # retrieval logic
+import functions      # generation logic
 
 # --- Configuration ---
 st.set_page_config(page_title="Smart Study Assistant", layout="wide")
