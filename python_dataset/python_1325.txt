@@ -1,0 +1,21 @@
+        Topic: Async Generators: Comparison with alternatives
+        Question: Describe Async Generators (Comparison with alternatives) and provide a practical code example.
+
+        Explanation:
+        Async Generators is an important Python topic. This explanation covers the implementation details, trade-offs, and typical use-cases, along with code patterns commonly used in production. It is often encountered in tasks involving async generators.
+
+        Step-by-Step Solution:
+        1. Consider complexity and potential optimizations.
+2. Explain the expected output and why it occurs.
+3. Add tests to verify correctness.
+4. Refactor repetitive code into functions or classes.
+5. Add tests to verify correctness.
+6. Document assumptions and usage examples.
+7. Profile the code to find bottlenecks.
+
+        Example:
+        # Example snippet illustrating Async Generators
+print('Example 1325')
+
+        Tags: python, async_generators, intermediate
+        Generated: 2025-10-12T13:10:15.017926Z

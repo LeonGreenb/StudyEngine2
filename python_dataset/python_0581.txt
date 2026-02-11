@@ -1,0 +1,16 @@
+        Topic: List Comprehensions: Interview Question (variant 581)
+        Question: How does List Comprehensions (Interview Question) work in Python? Provide a detailed explanation.
+
+        Explanation:
+        List Comprehensions is an important Python topic. This section explains the concept in simple terms, with clear analogies and basic syntax examples to get started quickly. It is often encountered in tasks involving list comprehensions.
+
+        Step-by-Step Solution:
+        1. Refactor repetitive code into functions or classes.
+2. Add tests to verify correctness.
+3. Add tests to verify correctness.
+
+        Example:
+        [x*x for x in range(5)]  # [0,1,4,9,16]
+
+        Tags: python, list_comprehensions, beginner
+        Generated: 2025-10-12T13:10:14.626623Z

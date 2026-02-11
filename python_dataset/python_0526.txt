@@ -1,0 +1,17 @@
+        Topic: Recursion Basics: Implementation Walkthrough
+        Question: How does Recursion Basics (Implementation Walkthrough) work in Python? Provide a detailed explanation.
+
+        Explanation:
+        Recursion Basics is an important Python topic. This section explains the concept in simple terms, with clear analogies and basic syntax examples to get started quickly. It is often encountered in tasks involving recursion basics.
+
+        Step-by-Step Solution:
+        1. Handle common edge cases and input validation.
+2. Handle common edge cases and input validation.
+3. Explain the expected output and why it occurs.
+
+        Example:
+        def factorial(n):
+    return 1 if n<=1 else n*factorial(n-1)
+
+        Tags: python, recursion_basics, beginner
+        Generated: 2025-10-12T13:10:14.538665Z

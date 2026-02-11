@@ -1,0 +1,23 @@
+Topic: HAVING
+Difficulty: Easy
+
+Explanation:
+HAVING filters groups formed by GROUP BY.
+
+Question:
+Write an SQL query related to having using the 'comments' table.
+
+Step-by-Step Solution:
+1. Identify the relevant table and columns.
+2. Apply the concept of having appropriately.
+3. Ensure the query follows ANSI SQL syntax.
+4. Validate results with realistic data.
+
+Answer:
+-- Example ANSI SQL query
+SELECT * FROM comments;
+
+Example:
+This would return all rows from the 'comments' table.
+
+Tags: HAVING, SQL, COMMENTS

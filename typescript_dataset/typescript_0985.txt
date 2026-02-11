@@ -1,0 +1,22 @@
+Topic: JSX & TSX with React: Best Practices
+Question: Explain the concept of JSX & TSX with React and how it is used in TypeScript.
+
+Explanation:
+JSX & TSX with React is an important TypeScript topic. This entry explains the concept in clear terms, shows practical use cases, and teaches how to apply it in typical TypeScript code.
+
+Step-by-Step Solution:
+1. Introduce the core idea of JSX & TSX with React and when it's used.
+2. Show basic syntax with a minimal example.
+3. Discuss limitations, edge cases, performance and advanced patterns.
+4. Show integration with build tools or compiler APIs where applicable.
+5. Demonstrate a slightly larger example or pattern.
+6. Summarize best practices and further reading.
+
+Example:
+// Example: React + TypeScript props
+import React from 'react';
+type Props = { title: string };
+const Header: React.FC<Props> = ({ title }) => <h1>{title}</h1>;
+
+Tags: typescript, jsx_&_tsx_with_react, advanced
+Generated: 2025-10-12T14:41:22.432019Z

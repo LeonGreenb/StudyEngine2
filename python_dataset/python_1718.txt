@@ -1,0 +1,26 @@
+        Topic: Sorting Algorithms (QuickSort, MergeSort): Beginner Guide (variant 1718)
+        Question: Describe Sorting Algorithms (QuickSort, MergeSort) (Beginner Guide) and provide a practical code example.
+
+        Explanation:
+        Sorting Algorithms (QuickSort, MergeSort) is an important Python topic. This advanced explanation explores internals, optimization, concurrency concerns, and interactions with other components or libraries. It is often encountered in tasks involving sorting algorithms (quicksort, mergesort).
+
+        Step-by-Step Solution:
+        1. Explain the expected output and why it occurs.
+2. Add tests to verify correctness.
+3. Add tests to verify correctness.
+4. Start by reviewing the basic syntax and definitions.
+5. Explain the expected output and why it occurs.
+6. Write a minimal example to demonstrate the concept.
+7. Handle common edge cases and input validation.
+8. Start by reviewing the basic syntax and definitions.
+9. Profile the code to find bottlenecks.
+10. Start by reviewing the basic syntax and definitions.
+11. Document assumptions and usage examples.
+12. Start by reviewing the basic syntax and definitions.
+
+        Example:
+        # Example snippet illustrating Sorting Algorithms (QuickSort, MergeSort)
+print('Example 1718')
+
+        Tags: python, sorting_algorithms_(quicksort,_mergesort), advanced
+        Generated: 2025-10-12T13:10:15.206057Z

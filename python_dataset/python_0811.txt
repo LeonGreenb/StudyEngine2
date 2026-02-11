@@ -1,0 +1,19 @@
+        Topic: Rate Limiting: Optimization Tips
+        Question: What are the key principles behind Rate Limiting (Optimization Tips)? Give examples and common pitfalls.
+
+        Explanation:
+        Rate Limiting is an important Python topic. This explanation covers the implementation details, trade-offs, and typical use-cases, along with code patterns commonly used in production. It is often encountered in tasks involving rate limiting.
+
+        Step-by-Step Solution:
+        1. Use library utilities when available instead of reinventing.
+2. Use library utilities when available instead of reinventing.
+3. Write a minimal example to demonstrate the concept.
+4. Explain the expected output and why it occurs.
+5. Add tests to verify correctness.
+
+        Example:
+        # Example snippet illustrating Rate Limiting
+print('Example 811')
+
+        Tags: python, rate_limiting, intermediate
+        Generated: 2025-10-12T13:10:14.723207Z
